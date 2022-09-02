@@ -1,6 +1,6 @@
 # proffy-rockeseat!
 
-[proffy](https://user-images.githubusercontent.com/47877623/188049698-c18d774c-06df-4d65-bd9d-aa8de01e29a7.png)
+https://user-images.githubusercontent.com/47877623/188049698-c18d774c-06df-4d65-bd9d-aa8de01e29a7.png
 
 
 🚀 Tecnologias
